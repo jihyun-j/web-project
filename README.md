@@ -2,4 +2,4 @@
 
 | Project Name | Link |
 |---|---|
-Form Validator | Link|
+Form Validator | [Link](#https://jihyun-j.github.io/Udemy-20projects/day1/)|
