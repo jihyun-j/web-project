@@ -1,4 +1,4 @@
-# Udemy-20projects
+# 20 Web Projects
 
 | Project Name | Link |
 |---|---|
