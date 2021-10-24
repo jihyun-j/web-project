@@ -1,4 +1,4 @@
-# 20 Web Projects
+# 20 Web Projects - HTML/CSS/JS
 
 | Project Name | Link |
 |---|---|
